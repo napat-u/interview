@@ -1,0 +1,15 @@
+.img_style {
+  width: 100px;
+  height: 100px;
+}
+
+.row_container {
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+}
+
+.link_style {
+  color: black;
+}
